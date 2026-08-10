@@ -1,21 +1,21 @@
 # Jefferson Araújo
 
-Backend Developer Jr com foco no desenvolvimento de APIs REST,
-bancos de dados relacionais e aplicações backend utilizando
-Node.js, TypeScript e Java.
+Desenvolvedor Backend Jr com foco em APIs REST, bancos de dados
+relacionais e construção de software com atenção à testabilidade,
+segurança e qualidade de código.
 
-## Tecnologias
+## Tecnologias e Ferramentas
 
 ### Backend
-Node.js • TypeScript • Java • Express
+Node.js • TypeScript • Java • Express • REST APIs
 
-### Banco de dados
+### Banco de Dados
 PostgreSQL • SQL • Prisma ORM
 
-### APIs e ferramentas
-REST APIs • Swagger/OpenAPI • Postman
+### Qualidade e Testes
+Postman • Testes de API • Testes unitários • Testes de integração
 
-### DevOps e versionamento
+### DevOps e Versionamento
 Git • GitHub • Docker
 
 ## Projeto em destaque
