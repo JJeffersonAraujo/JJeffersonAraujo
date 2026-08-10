@@ -1,16 +1,29 @@
-## Hi there 👋
+# Jefferson Araújo
 
-<!--
-**JJeffersonAraujo/JJeffersonAraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer Jr com foco no desenvolvimento de APIs REST,
+bancos de dados relacionais e aplicações backend utilizando
+Node.js, TypeScript e Java.
 
-Here are some ideas to get you started:
+## Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Backend
+Node.js • TypeScript • Java • Express
+
+### Banco de dados
+PostgreSQL • SQL • Prisma ORM
+
+### APIs e ferramentas
+REST APIs • Swagger/OpenAPI • Postman
+
+### DevOps e versionamento
+Git • GitHub • Docker
+
+## Projeto em destaque
+
+### NeriCare API
+
+API backend para gestão de profissionais, escalas, plantões
+e jornadas.
+
+Stack:
+Node.js • TypeScript • Express • PostgreSQL • Prisma • JWT • TSOA
