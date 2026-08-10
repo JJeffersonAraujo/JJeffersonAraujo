@@ -2,212 +2,78 @@
 
 ### Backend Developer Jr
 
-Desenvolvedor Backend Jr com foco na construção de **APIs REST**, aplicações com **Node.js, TypeScript e Java**, bancos de dados relacionais e desenvolvimento orientado à qualidade.
+Desenvolvedor Backend Jr com foco em **APIs REST**, bancos de dados relacionais e aplicações com **Node.js, TypeScript e Java**.
 
-Tenho experiência prática com desenvolvimento de APIs, modelagem de dados, autenticação, documentação de endpoints e integração com banco de dados, aplicando conceitos de arquitetura, separação de responsabilidades, segurança e testabilidade.
-
-Minha experiência anterior com **Qualidade de Software e testes de API** também contribui para uma visão mais ampla sobre confiabilidade, validação de regras de negócio e prevenção de falhas durante o desenvolvimento.
+Experiência prática com desenvolvimento de APIs, autenticação, modelagem de dados, documentação de endpoints e qualidade de software.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias
 
-### Backend
+**Backend**  
+Node.js · TypeScript · Java · JavaScript · Express · REST APIs
 
-- Node.js
-- TypeScript
-- Java
-- JavaScript
-- Express.js
-- REST APIs
+**Banco de Dados**  
+PostgreSQL · SQL · Prisma ORM
 
-### Banco de Dados
+**APIs e Segurança**  
+JWT · Swagger/OpenAPI · TSOA · Postman · Zod
 
-- PostgreSQL
-- SQL
-- Prisma ORM
+**Qualidade e Testes**  
+Testes de API · Testes Unitários · Testes de Integração · Postman
 
-### APIs, Segurança e Documentação
-
-- JWT
-- Swagger / OpenAPI
-- TSOA
-- Postman
-- Zod
-
-### Qualidade e Testes
-
-- Testes de API
-- Testes Funcionais
-- Testes Unitários
-- Testes de Integração
-- Validação de regras de negócio
-- Postman
-- Swagger UI
-
-### DevOps e Versionamento
-
-- Git
-- GitHub
-- Docker
-- Docker Compose
-- GitHub Actions *(em evolução)*
+**DevOps**  
+Git · GitHub · Docker · Docker Compose
 
 ---
 
-# 🚀 Projeto em Destaque
+## 🚀 Projeto em Destaque
 
-## NeriCare API
+### NeriCare API
 
-API backend desenvolvida para gerenciamento de **profissionais, escalas, plantões e jornadas de trabalho**.
+API backend para gestão de profissionais, escalas, plantões e jornadas, com autenticação JWT, controle de acesso por perfis e regras de cálculo de jornada.
 
-O projeto possui regras de negócio para cálculo de jornada, incluindo identificação de **atrasos, horas extras e período noturno**, além de autenticação e controle de acesso por perfis.
+`Node.js` · `TypeScript` · `Express` · `PostgreSQL` · `Prisma` · `JWT` · `TSOA/OpenAPI`
 
-### Principais tecnologias
-
-`Node.js` • `TypeScript` • `Express` • `PostgreSQL` • `Prisma ORM` • `JWT` • `TSOA` • `Swagger/OpenAPI` • `Docker`
-
-### Principais conceitos aplicados
-
-- Arquitetura orientada a features
-- Separação entre Controllers, Services e acesso a dados
-- API REST
-- Modelagem relacional
-- Autenticação JWT
-- Access Token e Refresh Token
-- Controle de acesso baseado em roles
-- Hash de senhas
-- Soft Delete
-- Auditoria de registros
-- DTOs
-- Tipagem forte
-- Documentação automática com OpenAPI
-- Ambiente PostgreSQL utilizando Docker Compose
-- Fluxo de desenvolvimento utilizando branches e Pull Requests
-
-🔗 **[Acessar NeriCare API](https://github.com/JJeffersonAraujo/neri-project)**
+🔗 [Ver NeriCare API](https://github.com/JJeffersonAraujo/neri-project)
 
 ---
 
-# 📌 Outros Projetos
+## 📌 Outros Projetos
 
-## Student Management API
+### API de Gestão de Alunos
 
-API REST para gerenciamento de alunos com operações CRUD, desenvolvida com Node.js, TypeScript e Express, utilizando ORM para persistência de dados.
+API REST para gerenciamento de alunos com operações CRUD.
 
-**Principais conceitos:**
+`Node.js` · `TypeScript` · `Express`
 
-- API REST
-- CRUD
-- Node.js
-- TypeScript
-- Express
-- Persistência de dados
+🔗 [Ver projeto](https://github.com/JJeffersonAraujo/api-rest-cadastro-alunos)
 
-🔗 **[Ver projeto](https://github.com/JJeffersonAraujo/api-rest-cadastro-alunos)**
+### API TypeScript MVC
 
----
+API CRUD utilizando arquitetura MVC e camada de serviços.
 
-## TypeScript MVC API
+`TypeScript` · `Express` · `MVC`
 
-API CRUD desenvolvida com TypeScript e Express utilizando arquitetura MVC e camada de serviços para separação de responsabilidades.
+🔗 [Ver projeto](https://github.com/JJeffersonAraujo/CRUD-TypeScript-MVC)
 
-**Principais conceitos:**
+### PRF 2025 — Preparação de Dados
 
-- TypeScript
-- Express
-- MVC
-- Service Layer
-- Separação de responsabilidades
-- API REST
+Preparação e tratamento de dados públicos de acidentes da PRF 2025.
 
-🔗 **[Ver projeto](https://github.com/JJeffersonAraujo/CRUD-TypeScript-MVC)**
+`Python` · `Pandas` · `Jupyter Notebook`
+
+🔗 [Ver projeto](https://github.com/JJeffersonAraujo/projeto-prf-2025)
 
 ---
 
-## PRF 2025 — Preparação e Tratamento de Dados
+## 📚 Atualmente estudando
 
-Projeto de preparação e tratamento dos dados públicos de acidentes da **Polícia Rodoviária Federal — PRF 2025**.
-
-O projeto utiliza Python para limpeza, transformação e preparação dos dados para análise e futuras aplicações.
-
-**Tecnologias:**
-
-`Python` • `Pandas` • `Jupyter Notebook`
-
-**Principais conceitos:**
-
-- Preparação de dados
-- Limpeza de dados
-- Transformação
-- Análise exploratória
-- Dados públicos reais
-
-🔗 **[Ver projeto](https://github.com/JJeffersonAraujo/projeto-prf-2025)**
+Java · Spring Boot · Testes Automatizados · Docker · CI/CD
 
 ---
 
-# 🧪 Qualidade como parte do desenvolvimento
+## 📫 Contato
 
-Minha experiência com testes contribui diretamente para minha atuação em backend.
-
-Ao desenvolver uma funcionalidade, procuro considerar não apenas o cenário de sucesso, mas também:
-
-- entradas inválidas;
-- regras de negócio;
-- autenticação e autorização;
-- tratamento de exceções;
-- comportamento dos endpoints;
-- códigos HTTP;
-- persistência dos dados;
-- cenários negativos;
-- condições de borda;
-- testabilidade do código.
-
-Tenho experiência com **Postman e testes de API** e estou evoluindo a implementação de **testes automatizados unitários e de integração** nos projetos backend.
-
----
-
-# 📚 Atualmente aprofundando conhecimentos em
-
-- Java
-- Spring Boot
-- Spring Data JPA
-- Desenvolvimento de APIs REST
-- PostgreSQL
-- Arquitetura Backend
-- Testes automatizados
-- Docker
-- CI/CD
-- Segurança de APIs
-- Clean Code
-- Boas práticas de desenvolvimento
-
----
-
-# 🎯 Objetivo Profissional
-
-Busco oportunidades como **Desenvolvedor Backend Júnior**, nas quais eu possa contribuir com desenvolvimento de APIs e regras de negócio, ao mesmo tempo em que aprofundo meus conhecimentos em arquitetura, banco de dados, testes automatizados e engenharia de software.
-
-Tenho especial interesse em ambientes que valorizem:
-
-- boas práticas de desenvolvimento;
-- qualidade de código;
-- revisão de código;
-- testes automatizados;
-- colaboração entre desenvolvimento e qualidade;
-- aprendizado técnico contínuo.
-
----
-
-# 📫 Contato
-
+**LinkedIn:** [Jefferson Araujo](https://www.linkedin.com/in/jefferson-araujo-102151a1/)  
 **GitHub:** [JJeffersonAraujo](https://github.com/JJeffersonAraujo)
-
-**LinkedIn:** [Jefferson Araujo](https://www.linkedin.com/in/jefferson-araujo-102151a1)
-
-**Localização:** Brasil
-
----
-
-> Desenvolvimento backend com atenção não apenas ao funcionamento da aplicação, mas também à qualidade, segurança, manutenção e testabilidade do software.
