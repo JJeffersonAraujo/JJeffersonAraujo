@@ -35,7 +35,7 @@ API backend para gestão de profissionais, escalas, plantões e jornadas, com au
 
 `Node.js` · `TypeScript` · `Express` · `PostgreSQL` · `Prisma` · `JWT` · `TSOA/OpenAPI`
 
-🔗 [Ver NeriCare API](https://github.com/JJeffersonAraujo/neri-project)
+🔗 [Ver NeriCare API](https://github.com/JJeffersonAraujo/nericare-api)
 
 ---
 
@@ -63,7 +63,7 @@ Preparação e tratamento de dados públicos de acidentes da PRF 2025.
 
 `Python` · `Pandas` · `Jupyter Notebook`
 
-🔗 [Ver projeto](https://github.com/JJeffersonAraujo/projeto-prf-2025)
+🔗 [Ver projeto](https://github.com/JJeffersonAraujo/analise-dados-prf-2025)
 
 ---
 
