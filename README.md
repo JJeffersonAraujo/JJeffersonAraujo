@@ -6,11 +6,11 @@ Minha vivência prática abrange levantamento de requisitos de negócio, consult
 
 ---
 
-## 🛠️ Tecnologias Consolidadas
+## 🛠️ Tecnologias e práticas utilizadas em projetos
 
 * **Backend & Runtime:** Node.js, TypeScript, JavaScript (ES6+), Express, APIs RESTful.
 * **Bancos de Dados & ORMs:** PostgreSQL, SQL, Prisma ORM, Modelagem Relacional e Migrations.
-* **Arquitetura & Segurança:** Feature-Driven Architecture, MVC, Autenticação JWT, Controle de Acesso Baseado em Papéis (RBAC), bcrypt e Zod.
+* **Arquitetura & Segurança:** Feature-Driven Architecture, MVC, autenticação JWT, validação estrita de payloads, bcrypt e Zod.
 * **Qualidade & DevOps:** Testes Automatizados (Node.js Native Test Runner), Integração Contínua (GitHub Actions), Docker, Git e GitHub, Swagger/OpenAPI 3 e Postman.
 
 ---
@@ -18,9 +18,9 @@ Minha vivência prática abrange levantamento de requisitos de negócio, consult
 ## 🚀 Projetos em Destaque
 
 ### 🏥 [NeriCare API](https://github.com/JJeffersonAraujo/nericare-api) *(Projeto Principal)*
-API RESTful corporativa desenvolvida para gestão de escalas médicas, plantões e apuração automatizada de jornadas hospitalares.
+Projeto pessoal de desenvolvimento Backend voltado à gestão de escalas, plantões e apuração de jornadas de trabalho na área da saúde.
 * **Stack:** Node.js, TypeScript, PostgreSQL, Prisma ORM, Docker Compose, TSOA e Swagger OpenAPI 3.
-* **Engenharia & Qualidade:** Feature-Driven Architecture, autenticação segura com JWT e validação estrita de payload/papéis (RBAC), **20 testes automatizados** cobrindo regras de negócio de plantão e segurança, e pipeline de **Integração Contínua (CI) via GitHub Actions**.
+* **Engenharia & Qualidade:** Feature-Driven Architecture, autenticação JWT com validação estrita de payload e tipos de usuário, **20 testes automatizados** (regras matemáticas de apuração de horas e segurança de autenticação) e pipeline de **Integração Contínua (CI) via GitHub Actions**.
 * 🔗 [Acessar repositório da NeriCare API](https://github.com/JJeffersonAraujo/nericare-api)
 
 ### 🏛️ [CRUD TypeScript MVC](https://github.com/JJeffersonAraujo/CRUD-TypeScript-MVC)
