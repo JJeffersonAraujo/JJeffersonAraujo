@@ -1,79 +1,63 @@
 # Jefferson Araújo
 
-### Backend Developer Jr
+Estudante de **Análise e Desenvolvimento de Sistemas** na Estácio com foco em **Desenvolvimento Backend**. Uno a prática de desenvolvimento de APIs RESTful em **Node.js, TypeScript e PostgreSQL** a mais de **8 anos de experiência com sistemas corporativos de gestão em saúde** na CTI – Gestão em Saúde.
 
-Desenvolvedor Backend Jr com foco em **APIs REST**, bancos de dados relacionais e aplicações com **Node.js, TypeScript e Java**.
-
-Experiência prática com desenvolvimento de APIs, autenticação, modelagem de dados, documentação de endpoints e qualidade de software.
+Minha vivência prática abrange levantamento de requisitos de negócio, consultas e análise de dados via SQL, testes funcionais de software e validação de contratos de APIs (Postman e Swagger), facilitando a comunicação com equipes de engenharia de software e a compreensão ágil de regras corporativas complexas.
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Tecnologias Consolidadas
 
-**Backend**  
-Node.js · TypeScript · Java · JavaScript · Express · REST APIs
-
-**Banco de Dados**  
-PostgreSQL · SQL · Prisma ORM
-
-**APIs e Segurança**  
-JWT · Swagger/OpenAPI · TSOA · Postman · Zod
-
-**Qualidade e Testes**  
-Testes de API · Testes Unitários · Testes de Integração · Postman
-
-**DevOps**  
-Git · GitHub · Docker · Docker Compose
+* **Backend & Runtime:** Node.js, TypeScript, JavaScript (ES6+), Express, APIs RESTful.
+* **Bancos de Dados & ORMs:** PostgreSQL, SQL, Prisma ORM, Modelagem Relacional e Migrations.
+* **Arquitetura & Segurança:** Feature-Driven Architecture, MVC, Autenticação JWT, Controle de Acesso Baseado em Papéis (RBAC), bcrypt e Zod.
+* **Qualidade & DevOps:** Testes Automatizados (Node.js Native Test Runner), Integração Contínua (GitHub Actions), Docker, Git e GitHub, Swagger/OpenAPI 3 e Postman.
 
 ---
 
-## 🚀 Projeto em Destaque
+## 🚀 Projetos em Destaque
 
-### NeriCare API
+### 🏥 [NeriCare API](https://github.com/JJeffersonAraujo/nericare-api) *(Projeto Principal)*
+API RESTful corporativa desenvolvida para gestão de escalas médicas, plantões e apuração automatizada de jornadas hospitalares.
+* **Stack:** Node.js, TypeScript, PostgreSQL, Prisma ORM, Docker Compose, TSOA e Swagger OpenAPI 3.
+* **Engenharia & Qualidade:** Feature-Driven Architecture, autenticação segura com JWT e validação estrita de payload/papéis (RBAC), **20 testes automatizados** cobrindo regras de negócio de plantão e segurança, e pipeline de **Integração Contínua (CI) via GitHub Actions**.
+* 🔗 [Acessar repositório da NeriCare API](https://github.com/JJeffersonAraujo/nericare-api)
 
-API backend para gestão de profissionais, escalas, plantões e jornadas, com autenticação JWT, controle de acesso por perfis e regras de cálculo de jornada.
+### 🏛️ [CRUD TypeScript MVC](https://github.com/JJeffersonAraujo/CRUD-TypeScript-MVC)
+Aplicação REST demonstrando a separação estrita de responsabilidades no padrão Model-View-Controller com persistência em memória.
+* **Stack:** Node.js, TypeScript, Express e Node.js Test Runner.
+* **Engenharia & Qualidade:** Padronização de envelopes de resposta HTTP via camada View, compilação TypeScript automatizada pré-teste (`pretest`) com **8 testes unitários** e pipeline de **CI via GitHub Actions**.
+* 🔗 [Acessar repositório do CRUD TypeScript MVC](https://github.com/JJeffersonAraujo/CRUD-TypeScript-MVC)
 
-`Node.js` · `TypeScript` · `Express` · `PostgreSQL` · `Prisma` · `JWT` · `TSOA/OpenAPI`
-
-🔗 [Ver NeriCare API](https://github.com/JJeffersonAraujo/nericare-api)
-
----
-
-## 📌 Outros Projetos
-
-### API de Gestão de Alunos
-
-API REST para gerenciamento de alunos com operações CRUD.
-
-`Node.js` · `TypeScript` · `Express`
-
-🔗 [Ver projeto](https://github.com/JJeffersonAraujo/api-rest-cadastro-alunos)
-
-### API TypeScript MVC
-
-API CRUD utilizando arquitetura MVC e camada de serviços.
-
-`TypeScript` · `Express` · `MVC`
-
-🔗 [Ver projeto](https://github.com/JJeffersonAraujo/CRUD-TypeScript-MVC)
-
-### PRF 2025 — Preparação de Dados
-
-Preparação e tratamento de dados públicos de acidentes da PRF 2025.
-
-`Python` · `Pandas` · `Jupyter Notebook`
-
-🔗 [Ver projeto](https://github.com/JJeffersonAraujo/analise-dados-prf-2025)
+### 📊 [Análise de Dados PRF 2025](https://github.com/JJeffersonAraujo/analise-dados-prf-2025)
+Pipeline de análise exploratória de dados (EDA) e geração de indicadores estatísticos sobre acidentes rodoviários federais.
+* **Stack:** Python, Pandas, SQLite e Jupyter Notebook.
+* 🔗 [Acessar repositório da Análise PRF 2025](https://github.com/JJeffersonAraujo/analise-dados-prf-2025)
 
 ---
 
-## 📚 Atualmente estudando
+## 📚 Em Aprendizagem Contínua
 
-Java · Spring Boot · Testes Automatizados · Docker · CI/CD
+* **Linguagens & Frameworks:** Java, Spring Boot (Spring Web, Spring Security, Spring Data JPA).
+* **Engenharia de Software:** Arquitetura Limpa e Princípios SOLID.
+* **Análise de Dados:** Python para exploração e manipulação de bases relacionais.
 
 ---
 
-## 📫 Contato
+## 🎓 Formação Acadêmica
 
-**LinkedIn:** [Jefferson Araujo](https://www.linkedin.com/in/jefferson-araujo-102151a1/)  
-**GitHub:** [JJeffersonAraujo](https://github.com/JJeffersonAraujo)
+* **Graduação:** Tecnólogo em Análise e Desenvolvimento de Sistemas — Estácio *(Em andamento)*
+* **Graduação:** Bacharelado em Administração — Faculdade Joaquim Nabuco *(Concluído)*
+* **Formações Complementares:**
+  * Formação Backend com JavaScript — Aponti
+  * Formação Frontend — Aponti
+  * Formação em Análise de Dados — Aponti *(Em andamento)*
+
+---
+
+## 📫 Contato Profissional
+
+* **LinkedIn:** [linkedin.com/in/jefferson-araujo-102151a1](https://www.linkedin.com/in/jefferson-araujo-102151a1)
+* **GitHub:** [github.com/JJeffersonAraujo](https://github.com/JJeffersonAraujo)
+* **E-mail:** [jeffersonaraujo.pe@gmail.com](mailto:jeffersonaraujo.pe@gmail.com)
+* **Localização:** Recife, Pernambuco, Brasil
